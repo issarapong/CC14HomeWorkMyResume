@@ -1,0 +1,61 @@
+
+ 
+ body{
+  font-family: 'Kanit', sans-serif ;
+  background-color: black;
+  
+ 
+  
+ } 
+  .contactform {
+    width: 50%;
+    margin-left: 16px;
+    border: 1px solid gray;
+    padding: 20px;
+    border-radius: 10px;
+}
+img {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+
+table,
+th,
+td {
+  border: 1px solid gray;
+  border-collapse: collapse;
+}
+
+.trHead {
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.trDetail {
+  text-align: left;
+  font-size: 14px;
+  color: gray
+}
+
+.fa-youtube{
+  color: red;
+  font-size: 30px;
+}
+.title-box{
+border: 1px dashed gray;
+background-image: url(https://pixabay.com/get/g7a892cc3913be2529a78b1eb9c8d408f49b39b1b2ffbcc90744f3ba9a7e9ce62785a7d61febec99e553d3000cae31fbc9111f77bf6f31abfd0fb6fecb1b0a108_1920.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+background-blend-mode: hard-light;
+background-color: #000000;
+color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+.content-box{
+
+  color: gold;
+
+}
